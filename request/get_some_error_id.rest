@@ -1,0 +1,5 @@
+GET http://localhost:80/api/notes/123456789011
+
+###
+
+GET http://localhost:80/api/notes/some-wrong-format-id

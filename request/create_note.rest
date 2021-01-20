@@ -1,0 +1,7 @@
+POST http://localhost:80/api/notes
+Content-Type: application/json
+
+{
+    "content": "0",
+    "important": false
+}
